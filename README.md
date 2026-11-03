@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Guimarães 👋
 
-**Desenvolvedor em transição para DevOps.** Construo APIs com Node.js e TypeScript, testo o que construo e estudo o caminho até a produção: containers, pipelines e infraestrutura como código.
+**Desenvolvedor DevOps.** Construo APIs com Node.js e TypeScript, testo o que construo e estudo o caminho até a produção: containers, pipelines e infraestrutura como código.
 
 Sou formado em Ciência da Computação pela FACAPE e moro em Petrolina (PE). Hoje trabalho com implantação de sistemas na Info Rio. Antes, passei por desenvolvimento na Compass UOL e por QA na Softex Pernambuco.
 
@@ -33,6 +33,6 @@ Sou formado em Ciência da Computação pela FACAPE e moro em Petrolina (PE). Ho
 
 [![Testes](https://skillicons.dev/icons?i=jest,cypress,postman&theme=dark)](https://skillicons.dev)
 
-**DevOps e cloud (em estudo)**
+**DevOps e cloud**
 
 [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,linux,git&theme=dark)](https://skillicons.dev)
