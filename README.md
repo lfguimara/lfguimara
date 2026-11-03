@@ -5,7 +5,7 @@
 Sou formado em Ciência da Computação pela FACAPE e moro em Petrolina (PE). Hoje trabalho com implantação de sistemas na Info Rio. Antes, passei por desenvolvimento na Compass UOL e por QA na Softex Pernambuco.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16112e?style=for-the-badge&logo=linkedin&logoColor=f7c5dd)](https://www.linkedin.com/in/lucas-guimaraes-820649330/)
-[![E-mail](https://img.shields.io/badge/E--mail-16112e?style=for-the-badge&logo=gmail&logoColor=f7c5dd)](mailto:darkshacal25@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-16112e?style=for-the-badge)](mailto:lfguimara25@hotmail.com)
 
 ## 🌙 O que estou estudando agora
 
