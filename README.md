@@ -1,24 +1,38 @@
-## Bem-vindo(a) ao perfil do lfguimara 😁
+# Olá, eu sou o Lucas Guimarães 👋
 
- <div>
-   <a href="https://github.com/lfguimara">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfguimara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfguimara&layout=compact&langs_count=6&theme=tokyonight"/>
+**Desenvolvedor em transição para DevOps.** Construo APIs com Node.js e TypeScript, testo o que construo e estudo o caminho até a produção: containers, pipelines e infraestrutura como código.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra saber um pouco mais de mim!
- 
-<div>
-  <a href="https://www.linkedin.com/in/lucas-guimaraes-3a7b9b219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/lfguimara/lfguimara/blob/output/github-contribution-grid-snake.svg)
+Sou formado em Ciência da Computação pela FACAPE e moro em Petrolina (PE). Hoje trabalho com implantação de sistemas na Info Rio. Antes, passei por desenvolvimento na Compass UOL e por QA na Softex Pernambuco.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-16112e?style=for-the-badge&logo=linkedin&logoColor=f7c5dd)](https://www.linkedin.com/in/lucas-guimaraes-820649330/)
+[![E-mail](https://img.shields.io/badge/E--mail-16112e?style=for-the-badge&logo=gmail&logoColor=f7c5dd)](mailto:darkshacal25@gmail.com)
+
+## 🌙 O que estou estudando agora
+
+- **Containers e orquestração:** Docker e Kubernetes
+- **CI/CD:** GitHub Actions e publicação de imagens
+- **Infraestrutura como código:** Terraform
+- **Cloud e sistemas:** AWS e Linux
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [Agendamento Médico](https://github.com/lfguimara/agendamento-medico) | API que evita conflitos de horário, com testes e imagem Docker publicada pelo CI/CD. Tem também um [front-end](https://github.com/lfguimara/agendamento-medico-front) | TypeScript, Express, Prisma, PostgreSQL, Docker, GitHub Actions |
+| [Projeto K8s](https://github.com/lfguimara/projeto-k8s) | Estudo de Kubernetes: nginx com réplicas, Service, ConfigMap, Secret e volume persistente | Kubernetes, nginx |
+| [API de Produtos + Cloudflare](https://github.com/lfguimara/api-produtos-cloudflare) | Estudo de infraestrutura como código: Terraform criando um banco D1 na Cloudflare | Terraform, Cloudflare, Express |
+| Sistema de RH: [Funcionários](https://github.com/lfguimara/api-funcionario), [Benefícios](https://github.com/lfguimara/api-beneficios) e [Folha](https://github.com/lfguimara/api-folha) | APIs separadas para cadastro, benefícios e cálculo da folha de pagamento | Node.js, Express, Sequelize, MySQL |
+
+## 🛠️ Tecnologias
+
+**Desenvolvimento e dados**
+
+[![Desenvolvimento](https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,nextjs,postgres,mysql,mongodb,prisma&theme=dark)](https://skillicons.dev)
+
+**Testes**
+
+[![Testes](https://skillicons.dev/icons?i=jest,cypress,postman&theme=dark)](https://skillicons.dev)
+
+**DevOps e cloud (em estudo)**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,linux,git&theme=dark)](https://skillicons.dev)
